@@ -16,7 +16,7 @@ function Right() {
           </div>
         </div>
         <div>
-          <img className='profile' src="github_icon.png" alt="Example Logo" width="100" />
+          <img className='profile' src="guru-photo.jpg" alt="Example Logo" width="100" />
           <h4 style={{textAlign:'center'}}>Guruprasath K</h4>
         </div>
       </div>
