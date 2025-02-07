@@ -21,9 +21,16 @@ function Right() {
         </div>
       </div>
 
-      {/* <div className='right-bottom'>
-
-      </div> */}
+      <div className='right-bottom'>
+        <h2>PROJECT</h2>
+        <div className='project'>
+            <img className='pro-image' src='demand.png' alt='sample_image' width='200'/>
+            <div>
+              <a href='https://github.com/GuruPrasath-2004/group-14_DEMAND_FORECASTING' target="_blank" rel="noopener noreferrer"><h3>Demand Forecasting</h3></a>
+              <p>This project focuses on predicting future demand for products or services using Exponential Smoothing techniques. The model smooths historical data by giving more weight to recent observations while gradually reducing the influence of older data. It helps businesses forecast sales trends, manage inventory, and optimize supply chain operations.</p>
+            </div>
+        </div>
+      </div>
     </div>
   )
 }
